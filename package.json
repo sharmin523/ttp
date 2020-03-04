@@ -1,0 +1,14 @@
+{
+  "name": "ttp",
+  "version": "1.0.0",
+  "description": "Stock portfolio tracker for NYC Tech Talent Pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sharmin Sultana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
